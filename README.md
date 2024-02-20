@@ -2,6 +2,8 @@ a)  Game Information:
   1)  The game is entirely written in C++ and SFML.
   2)  In order to run this on Visual Studio, SFML must be installed and integrated with it.
   3)  All the pngs for the tetris blocks are custom made.
+  4)  You can put all these files in a single folder and run the exe in order to try out the game.
+  5)  SFML files have also been included.
 
 b)  Game Instructions:
   1)  This is the classic Tetris we all know and love but with some tweaks.

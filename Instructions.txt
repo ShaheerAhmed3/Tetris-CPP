@@ -1,0 +1,8 @@
+1. Do not press escape during the game, it will terminate the program.
+2. Use the arrows keys as controls.
+3. Up key to rotate.
+4. Down, Left and Right key to move down, left and right respectively.
+5. The images whose names are colors are the pngs for the blocks, rest of the images are for backgrounds.
+6. Only one font is used in the code.
+7. Leaderboard will be displayed in the end.
+8. Enjoy!
